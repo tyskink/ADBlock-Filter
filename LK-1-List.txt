@@ -87,7 +87,7 @@ jb51.net##.right
 jb51.net##.topTools
 jb51.net##.img-wrap
 jb51.net###_85m3s8q6gmy
-jb51.net##.clearfix
+!jb51.net##.clearfix
 jb51.net##.footer.f12
 jb51.net##.softsfwtl
 jb51.net##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
