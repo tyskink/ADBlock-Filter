@@ -1,0 +1,94 @@
+[Adblock Plus 2.0]
+! Checksum: 
+! Version: 201909191540
+! Title: LK-1-List
+! Last modified: 19 Sep 2019 07:20 UTC
+! Expires: 1 days (update frequency)
+!
+!-----------------------General advert blocking filters-----------------------!
+
+
+
+||ad.doubanio.com/
+||pic2.zhimg.com/v2-46ac1dc1badb84eb63090d31e92a8f19_540x450.jpeg
+||pic2.zhimg.com/v2-9bd8b1c8dfd6d1c88e77a638529b3a31_540x450.jpeg
+||issuecdn.baidupcs.com/issue/netdisk/guanggao/youqianhua96060-20190901.jpg
+https://g.ieeod0.com/
+||zhidiy.com/img/guanzhu.jpg
+||pos.baidu.com/
+||pic.zol-img.com.cn/201908/langc107356hp1000g_0827.swf?flashad=&&viewUrl=
+||pic1.zhimg.com/70/v2-06f2925e5fd34ba0b82b5b1588b04a48.jpg
+||files.jb51.net/image/ssfb8.png?0906
+||files.jb51.net/image/seo.gif
+||files.jb51.net/image/seo285969.png
+||files.jb51.net/image/99idc300.jpg
+||files.jb51.net/skin/2018/images/jb51ewm.png
+||img-bss.csdn.net/1564120031598.png
+||img-bss.csdn.net/1564120036083.png
+||files.jb51.net/image/python_tb.gif?0402
+||pic1.zhimg.com/70/v2-35ef586785a9ba84c3ed567b5a4256d0.jpg
+||files.jb51.net/image/ssfb.png?09191
+||files.jb51.net/images/xgimg/bcimg3.png
+||files.jb51.net/image/qy1080.gif?0313
+||files.jb51.net/image/qy_1000.gif
+||files.jb51.net/image/2018222888.gif
+douban.com##div[style="position: relative; margin: 0px 0px 20px; display: block; width: 300px; height: 250px; overflow: hidden;"]
+douban.com##div[style="position: relative; margin: 40px 0px 0px; display: block; width: 1040px; height: 98px; overflow: hidden;"]
+zhihu.com##.AdblockBanner-inner
+zhihu.com##.AdblockBanner
+pan.baidu.com##a[style="background:url(https://issuecdn.baidupcs.com/issue/netdisk/guanggao/web-20190812.PNG) no-repeat;height:200px;display:block;"]
+zhidiy.com##.main
+zhidiy.com###festival_float_bottom
+zhidiy.com##.festival_float_bottom
+zhidiy.com##.guanzhu
+zhidiy.com##.side-other-jc-ad
+zhidiy.com##.info-ad-r
+zhidiy.com##.info-ad-l
+zhidao.baidu.com##.EC_ads_container.ec_im_container
+zhidao.baidu.com##.EC_ads_listborder.EC_result
+zol.com.cn##.gmine_ad
+zol.com.cn##.n1-pad-entrance-wrap
+zol.com.cn##div[style="display: block; height: 318px;"]
+zol.com.cn##.today-hot-layer
+zol.com.cn##.zm-adv-w1000.clearfix
+douban.com##div[style="position: relative; margin: 0px 0px 20px; display: block; width: 1040px; height: 98px; overflow: hidden;"]
+yunxs.com##div[style="float:left;width:336px;height:280px;padding:8px;"]
+yunxs.com##div[style="padding-bottom: 20px;overflow:hidden;clear:both;height:80px;"]
+yunxs.com##div[style="padding:5px;"]
+yunxs.com##div[style="padding-left:10px;padding-top:10px; padding-bottom: 10px;"]
+yunxs.com##.bot_logo
+jb51.net##.blank5
+jb51.net###txtlink
+jb51.net##.topimg
+jb51.net##.logom.fl
+jb51.net##.mtb10.clearfix
+jb51.net##.r300.clearfix.mt10.mb10
+jb51.net##.jb51ewm
+jb51.net###footer
+jb51.net##.r300.clearfix.mt10
+jb51.net###jb-share
+jb51.net##.right-share.jb-share
+jb51.net##.rshare-top
+blog.csdn.net##.right_box.footer_box.csdn-tracking-statistics
+blog.csdn.net##.btn-close-ad
+blog.csdn.net##.recommend-item-box.recommend-recommend-box
+blog.csdn.net##.showBig.animated.bounceInRight.isshow
+blog.csdn.net##.show-txt
+blog.csdn.net##.option-box
+v2ex.com##.inner
+v2ex.com##.sep20
+v2ex.com##.sidebar_compliance
+c.biancheng.net##.text
+jianshu.com##._3FPkr1
+jianshu.com##._1KC9MV
+jianshu.com##.VwEQ52._13lIbp
+jianshu.com##._22bNOL
+jb51.net##.right
+jb51.net##.topTools
+jb51.net##.img-wrap
+jb51.net###_85m3s8q6gmy
+jb51.net##.clearfix
+jb51.net##.footer.f12
+jb51.net##.softsfwtl
+jb51.net##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
+jb51.net###nav
