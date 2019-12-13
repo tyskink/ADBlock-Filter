@@ -103,7 +103,3 @@ colorspire.com##.cc-window.cc-banner.cc-type-info.cc-theme-block.cc-bottom.cc-co
 colorspire.com###\35 hCHv5EAnPsUaqg0QE1kjm2s2qKltX
 colorspire.com###\34 Bmrhz0fBP1XW4RcZ3PyXsttIsNjRx
 c.biancheng.net##.filler
-nytimes.com###gateway-content
-nytimes.com##.css-n7r8pg
-nytimes.com##.css-1yve47b.euiyums4
-nytimes.com##.meteredContent.css-1r7ky0e
