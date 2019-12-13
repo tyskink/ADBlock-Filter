@@ -92,3 +92,18 @@ jb51.net##.footer.f12
 jb51.net##.softsfwtl
 jb51.net##div[style="width:1080px;height:60px;background:#fff; margin-bottom:10px;"]
 jb51.net###nav
+juejin.im##.link
+juejin.im##.extension
+divcss5.com##.share
+thewindowsclub.com##._5FKnYytR-1-.cNwKe6lW-1-
+thewindowsclub.com##.f-NJD1R8-1-
+colorspire.com###qETq8a28yRpadDSVjUth5N76TJEX8E
+colorspire.com###GBijT6K5rmbOvJOEtKdsrLwdhmh8FY
+colorspire.com##.cc-window.cc-banner.cc-type-info.cc-theme-block.cc-bottom.cc-color-override-688238583
+colorspire.com###\35 hCHv5EAnPsUaqg0QE1kjm2s2qKltX
+colorspire.com###\34 Bmrhz0fBP1XW4RcZ3PyXsttIsNjRx
+c.biancheng.net##.filler
+nytimes.com###gateway-content
+nytimes.com##.css-n7r8pg
+nytimes.com##.css-1yve47b.euiyums4
+nytimes.com##.meteredContent.css-1r7ky0e
